@@ -1,0 +1,14 @@
+<Output device="EMTDC" version="2010" date="2024/02/12" time="16:08:19.000000">
+  <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+    <Sample rate="40000000.0" end="1000000" />
+  </Domain>
+  <List classid="Analog">
+    <Analog name="Main(0):I4" index="1" gindex="100663297" id="2116982910:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <Analog name="Main(0):E4" index="4" gindex="100663300" id="186446859:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <Analog name="Main(0):I7" index="7" gindex="100663303" id="1198022583:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <Analog name="Main(0):E7" index="10" gindex="100663306" id="1867576283:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <Analog name="Main(0):I9" index="13" gindex="100663309" id="195381799:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    <Analog name="Main(0):E9" index="16" gindex="100663312" id="983007876:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+  </List>
+  <List classid="Digital" />
+</Output>

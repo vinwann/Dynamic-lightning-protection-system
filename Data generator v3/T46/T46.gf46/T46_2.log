@@ -1,0 +1,17 @@
+ Line Constants Program for the PSCAD V5
+ Build: 2022.10.28
+ (c)1995-2022 Manitoba Hydro International, Ltd.
+ 
+ File Name:        E:\Data generator v3\T46\T46.gf46\T46_2.tli
+ Segment length:   9900.000000 [m]
+ Length Increment: 0.000000 [m]
+ Steps:            1
+ 
+ RXB:  0.164348330518E+01, 0.339862290712E+01, 0.251383402401E-04
+ *WARNING*: The modal velocity (   329696740.099056     
+ is greater than speed of light (~3e8 m/s)
+ *WARNING*: The modal velocity (   329696740.099056     
+ is greater than speed of light (~3e8 m/s)
+ 
+ LCP solve constants complete.
+0
