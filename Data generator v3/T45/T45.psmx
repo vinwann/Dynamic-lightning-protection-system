@@ -1,0 +1,85 @@
+<Meta name="T45">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="T45" id="148106974" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version 5.0.2]]></message>
+    <message status="warning" label="build" groupid="202002" id="1847423567" classid="CmpNavigator">
+      <Wire scope="T45" name="WireOrthogonal" status="warning" link="1254644501" /><![CDATA[Ideal wire has an implied connection to bus 'Bus2'. A splice has been added at its crossing point.]]></message>
+    <message status="warning" label="build" groupid="202002" id="1339434482" classid="CmpNavigator">
+      <Wire scope="T45" name="WireOrthogonal" status="warning" link="292572689" /><![CDATA[Ideal wire has an implied connection to bus 'Bus3'. A splice has been added at its crossing point.]]></message>
+    <message status="normal" label="build" groupid="100006" id="659714130" classid="CmpNavigator">
+      <User scope="T45" name="psse" status="normal" link="782780565" /><![CDATA[Compiling 'psse'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="799856690" classid="CmpNavigator">
+      <User scope="T45" name="T7_8" status="normal" link="8336909" /><![CDATA[Compiling 'T7_8'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1370804384" classid="CmpNavigator">
+      <User scope="T45" name="T8_9" status="normal" link="238356294" /><![CDATA[Compiling 'T8_9'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="163759900" classid="CmpNavigator">
+      <User scope="T45" name="T5_7" status="normal" link="1200896919" /><![CDATA[Compiling 'T5_7'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="90810839" classid="CmpNavigator">
+      <User scope="T45" name="T6_9" status="normal" link="2044306914" /><![CDATA[Compiling 'T6_9'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="27275493" classid="CmpNavigator">
+      <User scope="T45" name="T4_5" status="normal" link="1426503440" /><![CDATA[Compiling 'T4_5'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1660176719" classid="CmpNavigator">
+      <User scope="T45" name="T4_6" status="normal" link="1036163106" /><![CDATA[Compiling 'T4_6'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" link="1219401523" id="1219401523" classid="FileNavigator"><![CDATA[Generating 'E:\Data generator v3\T45\T45.gf46\T45.map'.]]><file scope="T45">E:\Data generator v3\T45\T45.gf46\T45.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="T45" id="452285893" classid="MessageObj"><![CDATA[The total number of live nodes: 36]]></message>
+    <message status="normal" label="build" groupid="0" link="1107760011" id="1107760011" classid="FileNavigator"><![CDATA[Coding .mak file: 'E:\Data generator v3\T45\T45.gf46\\T45.mak']]><file scope="T45">E:\Data generator v3\T45\T45.gf46\\T45.mak</file></message>
+    <message status="normal" label="build" groupid="100001" scope="T45" id="1159846437" classid="MessageObj"><![CDATA[Non-professional licenses are limited to a single, electrical subsystem. Subsystem splitting has been internally disabled for this simulation.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="T45" id="316224335" classid="MessageObj"><![CDATA[Time for Compile: 625ms  Make: 0ms]]></message>
+    <message status="normal" label="build" groupid="100011" id="1493912007" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="797630835" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T78_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="517061641" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="598590034" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T78_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="889409332" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="2015035876" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T89_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="966881288" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="2030156339" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T89_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="2064798993" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="773276735" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T57_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="315101841" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="1236776646" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T57_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="2006735535" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="1416267884" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T69_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1516561174" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="285461743" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T69_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1972130048" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="1730758801" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T45_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1325123349" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="837235280" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T45_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="85049422" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="1196769153" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T46_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1481314756" classid="CmpNavigator">
+      <Wire scope="T45" name="ieee_09_bus_tl:T89_1" status="normal" link="1709921185" /><![CDATA[Solving transmission segment using 'E:\Data generator v3\T45\T45.gf46\T46_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="T45" id="797899394" classid="MessageObj"><![CDATA[Solve Time = 782ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="T45" id="1503106119" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="T45" id="247071275" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="T45" id="263083771" classid="MessageObj"><![CDATA[Will execute (2): make -j -f T45.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="T45" id="1846196981" classid="MessageObj"><![CDATA[Will execute (2): "E:\Data generator v3\T45\T45.gf46\T45_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="T45" id="1974859396" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="T45" id="956640024" classid="MessageObj"><![CDATA[E:\Data generator v3\T45\T45.gf46>call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100013" scope="T45" id="1717585869" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'T45.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="T45" id="2010150529" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version 5.0.2]]></message>
+    <message status="error" label="runtime" groupid="300008" scope="T45" id="1249753134" classid="MessageObj"><![CDATA[Process has been terminated by user.]]></message>
+    <message status="warning" label="runtime" groupid="200009" scope="T45" id="1069912509" classid="MessageObj"><![CDATA[Simulation ending on user request.]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="T45:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.5" scrollx="338" scrolly="144" />
+    <View name="T4_5" zoomscale="1.5" scrollx="724" scrolly="455" />
+    <View name="T7_8" zoomscale="1.5" scrollx="0" scrolly="0" />
+  </List>
+  <Output device="EMTDC" version="2010" date="2024/02/12" time="12:17:55.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="40000000.0" end="1000000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):I4" index="1" gindex="100663297" id="2116982910:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E4" index="4" gindex="100663300" id="186446859:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):I7" index="7" gindex="100663303" id="1198022583:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E7" index="10" gindex="100663306" id="1867576283:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):I9" index="13" gindex="100663309" id="195381799:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):E9" index="16" gindex="100663312" id="983007876:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>

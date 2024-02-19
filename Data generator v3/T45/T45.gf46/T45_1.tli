@@ -1,0 +1,47 @@
+Line Summary:
+   {
+   Line Name = T45_1
+   Line Length = 0.1
+   Steady State Frequency = 50.0
+   Number of Conductors = 3
+   }
+! This should be in a section called TLINE-INPUT-DATA
+Line Constants Ground Data:
+   {
+   Ground Resistivity Type = 0
+   GroundResistivity = 100.0
+   GroundPermeability = 1.0
+   GroundPermittivity = 1.0
+   EarthImpedanceFormula = 0
+   EarthUImpedanceFormula = 2
+   EarthMImpedanceFormula = 2
+   }
+! This should be in a section called TLINE-INPUT-DATA
+Line Constants Tower:
+   {
+   Name = 3L1
+   Circuit = 1
+      {
+      Transposed = 1
+      Conductors = 3
+      Conductor Phase Information = 1 2 3
+      Radius = 0.006135
+      DCResistance = 0.3632
+      Conductor Relative Permeability = 1.0
+      ShuntConductance = 1.0e-11
+      P1 = -0.9 6.1
+      P2 = 0.0 6.1
+      P3 = 0.9 6.1
+      Sag = 10.0
+      }
+   GroundWires = 0
+      {
+      }
+   }
+! This should be in a section called TLINE-INPUT-DATA
+Bergeron Line Model Options:
+   {
+   Interpolate Travel Times = 1
+   Infinite Line Length = 0
+   High Frequency Approximation = 0
+   }
